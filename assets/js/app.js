@@ -13,7 +13,7 @@ switch (week) {
         console.log("Thursday");
         break
     case "juma":
-        console.log("Week");
+        console.log("Friday");
         break
     case "shanba":
         console.log("Saturday");
